@@ -1,4 +1,4 @@
-## Olá Sou Abner Guimarães Silveira novo estudante em ADS, e iniciante em qualquer coisa relacionada a programação.
+## Olá Sou Abner Guimarães Silveira novo estudante em ADS e iniciante em qualquer coisa relacionada a programação.
 
 
 <div style="display: inline_block"><br>
