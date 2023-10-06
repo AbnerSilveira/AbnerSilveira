@@ -4,6 +4,8 @@
 - 📚 Aprendendo C#
 - 👔 Buscando meu primeiro estágio
 
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Abner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Abner-C#" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256">
