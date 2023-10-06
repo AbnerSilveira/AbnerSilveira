@@ -1,7 +1,8 @@
 ## Olá Sou Abner Guimarães Silveira estudante de ADS e iniciando no mundo da programação.
 - 💻 Hoje estudo para desenvolvedor Ful-Stack
-- 📚 Aprendendo python
-- 👔 Atualmente desenpregado
+- 📒 Conhecimento basico em python
+- 📚 Aprendendo C#
+- 👔 Buscando meu primeiro estagio
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
