@@ -5,8 +5,7 @@
 - 👔 Buscando meu primeiro estagio
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Abner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" ![Ícone do C#]([URL_DA_IMAGEM](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png))
-/>
+  <img align="center" alt="Abner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </div>
   
   ##
