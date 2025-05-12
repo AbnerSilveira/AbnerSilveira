@@ -1,8 +1,8 @@
 ## Olá Mundo! Sou Abner Guimarães Silveira, estudante de ADS e iniciando no mundo da programação.
-- 💻 Hoje estudo para desenvolvedor Full-Stack
-- 📒 Conhecimento básico em Python
-- 📚 Aprendendo C#
-- 👔 Buscando meu primeiro estágio
+- 💻 Desenvolvedor Full-Stack
+- 📒 Conhecimento Python
+- 📚 Libnguagem principal C#
+- 👔 Buscando meu primeiro estágio em cybersecurity
 
 ##
 
