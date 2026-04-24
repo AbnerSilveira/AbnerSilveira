@@ -22,7 +22,7 @@
 
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** (UCL - 2023–2025)
 - 📚 Atualmente cursando **Sistemas de Informação** (UCL - 2026)
-- 💼 Atuando como **Full Stack Developer** na **Open Manager**
+- 💼 Atuando como estagiario **Full Stack Developer** na **Open Manager**
 - 🔐 Estudando cibersegurança pelo **Hackers do Bem** (RNP + SENAI-SP) e **Google Cybersecurity Professional Certificate**
 - 🌎 Português (nativo) • Inglês (fluente)
 - 📍 Serra – ES, Brasil
