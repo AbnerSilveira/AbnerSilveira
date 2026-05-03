@@ -52,10 +52,7 @@ Atuar em **Desenvolvimento ou Cibersegurança**, aplicando boas práticas de eng
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbnerSilveira&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerSilveira&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+<img src="https://streak-stats.demolab.com?user=AbnerSilveira&theme=tokyonight&hide_border=true">
 
 ---
 
